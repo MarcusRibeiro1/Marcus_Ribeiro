@@ -1,0 +1,9 @@
+A - Toda a história da criação do Git se dá em torno do Kernel do Linux. Ele e seu versionamento foram mantidos durante muito tempo no Bitkeeper, mas a empresa por trás dele, a BitMoover, resolveu ir para uma linha de comercialização do licenciamento de acesso ao software.
+
+Por um tempo, ela permitiu que os desenvolvedores do kernel do Linux usassem a versão gratuita (Freeware), mas um dos mantenedores, Andrew Tridgell, desenvolveu uma versão open source do client, uma ferramenta que poderia trabalhar com o código fonte armazenado no BitKeeper. Porém, a BitMoover ficou extremamente insatisfeita e considerou como violação da licença e engenharia reversa a criação desse client.
+
+Após meses de negociação, esse acesso gratuito foi revogado e surgiu a necessidade da criação de algo que não só substituísse. Mas fosse melhor que o Bitkeeper. Linus e todas as pessoas que mantinham o Kernel começaram a busca, mas nenhuma das opções de controle de versão descentralizadas disponíveis atendiam às necessidades. 
+
+B - Microsoft, porque já era a companhia privada que mais colabora com o GitHub a compra é essencial para concentrar seus esforços nas quatro principais frentes que Nadella considera cruciais: Nuvem, IA, Serviços (incluso Windows, Office e Xbox) e mercado corporativo. Desde que Steve Ballmer deixou o comando, sua visão de que o Linux era um câncer e um antro de comunistas foi completamente abandonada em prol de fortalecer a relação entre a Microsoft e os desenvolvedores de código aberto.
+
+C - Baixando o Aplicativo Desktop ou acessando diretamente pelo site Github.
